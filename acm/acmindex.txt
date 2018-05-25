@@ -1,0 +1,57 @@
+<html>
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<style type="text/css">img
+{
+    transition: width .5s height .5s;
+    -webkit-transition: width .5s, height .5s; 
+}
+
+img.li:hover {
+    width: 200%;
+	height:30%;
+}
+	</style>
+</head>
+<body>
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+</body>
+</html>
+<p><br />
+<title>Coming Soon</title>
+<!--===============================================================================================--></p>
+<link href="css/util.css" rel="stylesheet" type="text/css" />
+<link href="css/main.css" rel="stylesheet" type="text/css" /><!--===============================================================================================-->
+<div class="size1 bg0 where1-parent">
+<div class="size3 flex-col-sb flex-w p-l-75 p-r-75 p-t-45 p-b-45 respon1">
+<div class="wrap-pic1"><img alt="LOGO" class="li" height="130" src="images/icons/logo.png" width="250" /></div>
+
+<div class="p-t-50 p-b-60">
+<p class="m1-txt1 p-b-36">Our website is <span class="m1-txt2">Coming Soon</span>!</p>
+</div>
+
+<div>
+<p class="m1-txt1 p-b-36">follow us for further updates!<br />
+<a href="https://www.facebook.com/jecacm" target="_blank"><img alt="fLOGO" height="42" src="images/icons/f.png" width="" /></a> <a href="https://www.youtube.com/channel/UC17DbKZAlbAsQzvhlAy38Gg?view_as=subscriber" target="_blank"><img alt="fLOGO" height="42" src="images/icons/y.png" width="" /></a> <a href="https://twitter.com/AcmJec" target="_blank"><img alt="fLOGO" height="42" src="images/icons/t.png" width="" /></a></p>
+</div>
+</div>
+
+<div class="flex-c-m bg-img1 size2 where1 overlay1 where2 respon2" style="background-image: url('images/bg01.jpg');">
+<p><br />
+<br />
+<br />
+<br />
+<br />
+    <br />
+    <iframe allow="autoplay=1; encrypted-media" allowfullscreen="" frameborder="0" height="270" src="https://www.youtube.com/embed/gqc_rWc3wGI?playlist=gqc_rWc3wGI&amp;loop=1" width="480"></iframe><br />
+    <br />
+    <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" height="270" src="https://www.youtube.com/embed/j_t_nXzm100?playlist=j_t_nXzm100&amp;loop=1" width="480"></iframe></p>
+</div>
+</div>
